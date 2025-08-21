@@ -5,6 +5,14 @@ Next.js 공식 튜토리얼 [learn/dashboard-app](https://nextjs.org/learn/dashb
 - 학습 목적
   - Next.js의 기본 개념 및 구조 이해
   - 이후 개인 프로젝트나 포트폴리오에 활용할 기초 다지기
+- 시작하기
+
+  ```shell
+  corepack enable
+
+  pnpm install
+  pnpm dev
+  ```
 
 <br>
 
